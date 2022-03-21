@@ -23,7 +23,7 @@ app.get('/', (req, res) => {
     margin-top: 1rem;
     margin-left: auto;
     margin-right: auto;"
-		>Your Docker 🐬 image is actually works 😀</h2>
+		>Your Docker 🐬 image works 😀</h2>
 	`)
 })
 
